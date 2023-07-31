@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python,javascript,html.
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...new projects
-- 📫 How to reach me ...gaurabkashyap365@gmail.com
+- 📫 How to reach me ...gauravkashyap365@gmail.com
 
 <!---
 GaurabKashyap/GaurabKashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
